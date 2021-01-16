@@ -149,3 +149,5 @@ function randomColors() {
         all_buttons[i].classList.add(choices[randomNumber]);
     }
 }
+
+abc
